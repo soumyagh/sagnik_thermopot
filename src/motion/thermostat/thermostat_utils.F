@@ -1,3 +1,4 @@
+sagnik rough change 17/01/2026 at 17:05
 !--------------------------------------------------------------------------------------------------!
 !   CP2K: A general program to perform molecular dynamics simulations                              !
 !   Copyright 2000-2026 CP2K developers group <https://cp2k.org>                                   !
